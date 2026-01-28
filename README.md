@@ -1,5 +1,7 @@
 # Test Project
 
+This project contains automated tests using pytest and Playwright, with Docker support for easy execution.
+
 ## Setup
 
 1. Install dependencies:
